@@ -5,7 +5,8 @@ Created on Wed Feb 12 13:52:59 2020
 @author: jangm
 """
 
-n = int(input(), 16)
+a = 1
+b = 2
+for i in range(1, 3):
+    print(i)
 
-for i in range(1, 16):
-    
